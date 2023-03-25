@@ -15,7 +15,7 @@ font-family: 'Nanum Myeongjo YetHangul';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumMyeongjo-YetHangul/main/NanumMyeongjo-YetHangul.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumMyeongjo-YetHangul/main/NanumMyeongjo-YetHangul.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumMyeongjo-YetHangul/main/NanumMyeongjo-YetHangul.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.css
 ```
