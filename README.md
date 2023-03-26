@@ -28,8 +28,15 @@ import
 
 &nbsp;
 
-URL
+font-face
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.css
+@font-face {
+    font-family: 'Nanum Myeongjo YetHangul';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.ttf') format('truetype');
+}
 ```
