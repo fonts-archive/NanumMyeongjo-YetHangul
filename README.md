@@ -36,7 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMyeongjo-YetHangul/NanumMyeongjo-YetHangul.ttf') format('truetype');
 }
 ```
